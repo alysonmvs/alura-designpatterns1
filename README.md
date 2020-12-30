@@ -5,4 +5,4 @@
 
 :small_blue_diamond: Strategy
 
-:warning https://refactoring.guru/design-patterns/strategy
+:warning: https://refactoring.guru/design-patterns/strategy
