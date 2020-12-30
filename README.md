@@ -4,5 +4,6 @@
 :closed_book: Padrões de Projeto - Soluções reutilizáveis de software orientado a objetos
 
 :small_blue_diamond: Strategy
-
-:warning https://refactoring.guru/design-patterns/strategy
+    :warning https: //refactoring.guru/design-patterns/strategy
+:small_blue_diamond: Chain of Responsibility
+    :warning https: https://refactoring.guru/design-patterns/chain-of-responsibility
